@@ -1,3 +1,9 @@
+<meta http-equiv="refresh" content="0; url=https://github.com/Timothy-W-Hilton" />
+
+This placeholder was meant to redirect to
+my [GitHub homepage](https://github.com/Timothy-W-Hilton), but it
+didn't work.
+
 I'm a project scientist
 in [Elliott Campbell's lab](http://faculty.ucmerced.edu/ecampbell3/)
 at the [University of California Merced](http://www.ucmerced.edu).
