@@ -6,4 +6,4 @@ biosphere.
 
 
 I've developed several open source research codes to help in our work,
-and they are hosted on my <github page>(https://github.com/Timothy-W-Hilton/)
+and they are hosted on my [github page](https://github.com/Timothy-W-Hilton/)
