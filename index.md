@@ -1,9 +1,11 @@
+<meta http-equiv="refresh" content="0; url=https://github.com/Timothy-W-Hilton" />
+
 I'm a project scientist in Elliott Campbell's lab at the University of
 California Merced.  Our work seeks to improve predictions of future
 climate by reducing the uncertainty in the amount of anthropogenic
 carbon dioxide removed from the atmosphere by the terrestrial
 biosphere.
 
-
 I've developed several open source research codes to help in our work,
-and they are hosted on my [github page](https://github.com/Timothy-W-Hilton/)
+and they are hosted on
+my [github page](https://github.com/Timothy-W-Hilton/)
